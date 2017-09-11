@@ -1,0 +1,4111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/hzhan107">
+<entry
+   kind="file">
+<name>.classpath</name>
+<size>329</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>.project</name>
+<size>367</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.classpath</name>
+<size>387</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.project</name>
+<size>362</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.settings</name>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/Network.class</name>
+<size>7271</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation/internals</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/internals/Node.class</name>
+<size>3001</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation/tests</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9669</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/COMMIT_EDITMSG</name>
+<size>15</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/HEAD</name>
+<size>23</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/config</name>
+<size>137</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/description</name>
+<size>73</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/hooks</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/hooks/README.sample</name>
+<size>177</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/index</name>
+<size>883</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/info</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/info/exclude</name>
+<size>40</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/logs</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/HEAD</name>
+<size>203</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/refs</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/refs/heads</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/refs/heads/master</name>
+<size>203</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/04</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/04/f84582866efc08628079c469ab938c57c12fd8</name>
+<size>192</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/1c</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/1c/56d6647c8e4a63d536da6c1d0695e58af9af6d</name>
+<size>79</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/68</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/68/1fe61fd37aeca3b71b466407d6581982dc2cdd</name>
+<size>301</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/6c</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/6c/3c56a08ed709e3d18f98bb3cba33c7d91a35a1</name>
+<size>227</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/73</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/73/f3c569025bd424c02b0cc31adda07361bd76e2</name>
+<size>51</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/79</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/79/212715f1e30f136228ceec33495b8abe0e9d74</name>
+<size>132</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/7e</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/7e/032758489f74aa049e7c30ca5a290811629bc3</name>
+<size>98</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/b5</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/b5/8fa1f9e28ef7695c826922a7e03c3a9645b2b1</name>
+<size>2005</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/b5/f7eac4c74cb7a135d8f6dac0d5380b1d1dac6a</name>
+<size>69</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/d7</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/d7/60cdabf866e1e4bb59f59ea0f4e03a035d8fdd</name>
+<size>528</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/e1</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/e1/ff4e1a6f26de1f527631872c816c2906fba8a0</name>
+<size>53</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ec</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ec/70179020fd199111f0fd909f95d97babd8c368</name>
+<size>64</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ef</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ef/e0b78a69012710596d6e96d423e724af758b41</name>
+<size>129</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/info</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/pack</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/refs</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/refs/heads</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/refs/heads/master</name>
+<size>41</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/.git/refs/tags</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2/main.cpp</name>
+<size>11460</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.pbxproj</name>
+<size>8373</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/contents.xcworkspacedata</name>
+<size>148</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/xcuserdata</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/xcuserdata/dianazhang.xcuserdatad</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/xcuserdata/dianazhang.xcuserdatad/UserInterfaceState.xcuserstate</name>
+<size>15407</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcdebugger</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist</name>
+<size>91</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcschemes</name>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcschemes/MP2.xcscheme</name>
+<size>3239</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcschemes/xcschememanagement.plist</name>
+<size>475</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/MP2 2</name>
+<size>31360</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/cs418_mp2_hzhan107/README_hzhan107.rtf</name>
+<size>775</size>
+<commit
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/doc</name>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/Network.java</name>
+<size>11898</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation/internals</name>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/internals/Node.java</name>
+<size>4178</size>
+<commit
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation/tests</name>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/description.html</name>
+<size>97</size>
+<commit
+   revision="3311">
+<author>hzhan107</author>
+<date>2017-02-06T01:10:18.162219Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/libraries</name>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/libraries/junit_3_8_1.xml</name>
+<size>211</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>2469</size>
+<commit
+   revision="3311">
+<author>hzhan107</author>
+<date>2017-02-06T01:10:18.162219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="3311">
+<author>hzhan107</author>
+<date>2017-02-06T01:10:18.162219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/project-template.xml</name>
+<size>89</size>
+<commit
+   revision="3311">
+<author>hzhan107</author>
+<date>2017-02-06T01:10:18.162219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="3311">
+<author>hzhan107</author>
+<date>2017-02-06T01:10:18.162219Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>50489</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0.iml</name>
+<size>830</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/com</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/out/production/Assignment1.0/com/company</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Board.class</name>
+<size>848</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Main.class</name>
+<size>2175</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Piece$1.class</name>
+<size>951</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Piece$pieces.class</name>
+<size>1208</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Piece.class</name>
+<size>4635</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Players.class</name>
+<size>1284</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/Position.class</name>
+<size>469</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/out/production/Assignment1.0/com/company/TestJunit.class</name>
+<size>4429</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/com/company</name>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/company/Board.java</name>
+<size>643</size>
+<commit
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/company/Main.java</name>
+<size>2257</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/company/Piece.java</name>
+<size>11054</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/company/Players.java</name>
+<size>3667</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/company/Position.java</name>
+<size>350</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/com/company/TestJunit.java</name>
+<size>7635</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4560">
+<author>hzhan107</author>
+<date>2017-02-14T15:45:27.840415Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/description.html</name>
+<size>97</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/libraries</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/libraries/junit_3_8_1.xml</name>
+<size>211</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>2469</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/project-template.xml</name>
+<size>89</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>81564</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Assignment1.0.iml</name>
+<size>830</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>108474</size>
+<commit
+   revision="4560">
+<author>hzhan107</author>
+<date>2017-02-14T15:45:27.840415Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/PiecesImages</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bBISHOP.png</name>
+<size>740</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bKING.png</name>
+<size>933</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bKINGj.png</name>
+<size>714</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bKNIGHT.png</name>
+<size>805</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bPAWN.png</name>
+<size>511</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bQueen.png</name>
+<size>928</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bQueenj.png</name>
+<size>700</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/bROOK.png</name>
+<size>680</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/test.png</name>
+<size>966</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wBISHOP.png</name>
+<size>15021</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wKING.png</name>
+<size>15160</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wKINGj.png</name>
+<size>15026</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wKNIGHT.png</name>
+<size>15063</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wPAWN.png</name>
+<size>14849</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wQueen.png</name>
+<size>15176</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wQueenj.png</name>
+<size>14989</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/PiecesImages/wROOK.png</name>
+<size>14954</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/com</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/com/company</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI/Table.class</name>
+<size>1106</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI/Tiles.class</name>
+<size>2566</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI/guiBoard.class</name>
+<size>1547</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Bishop.class</name>
+<size>875</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/King.class</name>
+<size>1047</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Knight.class</name>
+<size>1049</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Pawn.class</name>
+<size>1600</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Piece$pieces.class</name>
+<size>1396</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Piece.class</name>
+<size>4508</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Prince.class</name>
+<size>1108</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Princess.class</name>
+<size>1128</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Queen.class</name>
+<size>906</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Rook.class</name>
+<size>867</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay/Board.class</name>
+<size>954</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay/Players.class</name>
+<size>2739</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay/Position.class</name>
+<size>1264</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/Main.class</name>
+<size>2623</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/Assignment1.0/com/company/TestJunit.class</name>
+<size>7401</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/company</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/company/ChessGUI</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessGUI/Table.java</name>
+<size>687</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessGUI/Tiles.java</name>
+<size>1888</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessGUI/guiBoard.java</name>
+<size>939</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/company/ChessPieces</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Bishop.java</name>
+<size>473</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/King.java</name>
+<size>613</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Knight.java</name>
+<size>605</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Pawn.java</name>
+<size>2127</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Piece.java</name>
+<size>10097</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Prince.java</name>
+<size>722</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Princess.java</name>
+<size>747</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Queen.java</name>
+<size>510</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPieces/Rook.java</name>
+<size>465</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/com/company/ChessPlay</name>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPlay/Board.java</name>
+<size>850</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPlay/Players.java</name>
+<size>3510</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/ChessPlay/Position.java</name>
+<size>977</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/Main.java</name>
+<size>2310</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/com/company/TestJunit.java</name>
+<size>12261</size>
+<commit
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/description.html</name>
+<size>97</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/libraries</name>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/libraries/junit_3_8_1.xml</name>
+<size>211</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>2469</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/project-template.xml</name>
+<size>89</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/workspace.xml</name>
+<size>83026</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Assignment1.0.iml</name>
+<size>830</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>108474</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Manual Test Plan.pdf</name>
+<size>448581</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/PiecesImages</name>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bBISHOP.png</name>
+<size>740</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bKING.png</name>
+<size>933</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bKNIGHT.png</name>
+<size>805</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bPAWN.png</name>
+<size>511</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bPrince.png</name>
+<size>733</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bPrincess.png</name>
+<size>580</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bQueen.png</name>
+<size>928</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/bROOK.png</name>
+<size>680</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/test.png</name>
+<size>966</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wBISHOP.png</name>
+<size>15021</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wKING.png</name>
+<size>15160</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wKINGj.png</name>
+<size>15026</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wKNIGHT.png</name>
+<size>15063</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wPAWN.png</name>
+<size>14849</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wPrince.png</name>
+<size>15101</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wPrincess.png</name>
+<size>14936</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wQueen.png</name>
+<size>15176</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wQueenj.png</name>
+<size>14989</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/PiecesImages/wROOK.png</name>
+<size>14954</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/com</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/com/company</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Main.class</name>
+<size>2092</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Bishop.class</name>
+<size>929</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/King.class</name>
+<size>1101</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Knight.class</name>
+<size>1103</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Pawn.class</name>
+<size>1740</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece$pieces.class</name>
+<size>1438</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece.class</name>
+<size>4616</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Prince.class</name>
+<size>1168</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Princess.class</name>
+<size>1188</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Queen.class</name>
+<size>960</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Rook.class</name>
+<size>921</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Board.class</name>
+<size>2481</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Players.class</name>
+<size>3158</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Position.class</name>
+<size>1294</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/TestJunit.class</name>
+<size>7578</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Moves.class</name>
+<size>2230</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Table$1.class</name>
+<size>1465</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Table$2.class</name>
+<size>2175</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Table$3.class</name>
+<size>749</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Table.class</name>
+<size>2691</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles$1$1.class</name>
+<size>961</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles$1.class</name>
+<size>3121</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles.class</name>
+<size>5258</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/Assignment1.0/com/company/View/guiBoard.class</name>
+<size>2086</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/company</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Main.java</name>
+<size>1630</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/company/Model</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/company/Model/ChessPieces</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Bishop.java</name>
+<size>485</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/King.java</name>
+<size>626</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Knight.java</name>
+<size>617</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Pawn.java</name>
+<size>2361</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Piece.java</name>
+<size>10119</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Prince.java</name>
+<size>735</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Princess.java</name>
+<size>759</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Queen.java</name>
+<size>523</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPieces/Rook.java</name>
+<size>477</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/company/Model/ChessPlay</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPlay/Board.java</name>
+<size>2356</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPlay/Players.java</name>
+<size>3847</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/Model/ChessPlay/Position.java</name>
+<size>989</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/TestJunit.java</name>
+<size>12099</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/com/company/View</name>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/View/Moves.java</name>
+<size>1966</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/View/Table.java</name>
+<size>3347</size>
+<commit
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/View/Tiles.java</name>
+<size>6303</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/com/company/View/guiBoard.java</name>
+<size>1278</size>
+<commit
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/Assignment 2.0.iml</name>
+<size>574</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea/inspectionProfiles</name>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>280</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/workspace.xml</name>
+<size>44917</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/WebScrap</name>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/ActorScraping.py</name>
+<size>2544</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/MovieScraping.py</name>
+<size>3549</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/QueriesFunc.py</name>
+<size>5469</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/WebScrap/Test</name>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/actors.json</name>
+<size>14280</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/movies.json</name>
+<size>2345</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/test_queriesClass.py</name>
+<size>3522</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/test_webScrapClass.py</name>
+<size>1189</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/text_ActorClass_MovieClass.py</name>
+<size>3440</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/webActorJSON.json</name>
+<size>1897884</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/Test/webMoviesJSON.json</name>
+<size>125182</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/WebScraping.py</name>
+<size>3072</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/WebScrap/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/WebScrap/__pycache__</name>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/__init__.py</name>
+<size>0</size>
+<commit
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/Assignment 2.0.iml</name>
+<size>574</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea/inspectionProfiles</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>280</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>223</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/workspace.xml</name>
+<size>67031</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Manual Test Plan - Web.pdf</name>
+<size>3664175</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/Graph</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Graph/DataAnalysis.py</name>
+<size>3849</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Graph/DataGraphLib.py</name>
+<size>6161</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Graph/GraphLibrary.py</name>
+<size>5732</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Graph/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/Graph/__pycache__</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Graph/dataLogFile.log</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/Scrapping</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Scrapping/ActorScraping.py</name>
+<size>2629</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Scrapping/MovieScraping.py</name>
+<size>3602</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Scrapping/WebScraping.py</name>
+<size>2948</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Scrapping/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/Test</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/actors.json</name>
+<size>14280</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/data.json</name>
+<size>443856</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/dataLogFile.log</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/graphLogFile.log</name>
+<size>18880</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/movies.json</name>
+<size>2345</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/test_ActorClass_MovieClass.py</name>
+<size>3206</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/test_dataGraphClass.py</name>
+<size>789</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/test_graphClass.py</name>
+<size>3446</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/test_webScrapClass.py</name>
+<size>1197</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/webActorJSON.json</name>
+<size>1901729</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/Test/webMoviesJSON.json</name>
+<size>126063</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/__pycache__</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/api</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/api/.idea</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/.idea/api.iml</name>
+<size>525</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/api/.idea/inspectionProfiles</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/.idea/modules.xml</name>
+<size>258</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/.idea/workspace.xml</name>
+<size>1170</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/api.py</name>
+<size>6376</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/dataLogFile.log</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/api/static</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/WebScrap/api/templates</name>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/api/test_api.py</name>
+<size>2854</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/WebScrap/dataLogFile.log</name>
+<size>160</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/__init__.py</name>
+<size>0</size>
+<commit
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/Assignment3.0.iml</name>
+<size>398</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea/inspectionProfiles</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>228</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/misc.xml</name>
+<size>379</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/workspace.xml</name>
+<size>38684</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/__pycache__</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/buildWebsite.py</name>
+<size>1554</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parseXML.py</name>
+<size>4327</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/static</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/static/bootstrap</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/static/bootstrap/css</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/css/bootstrap-responsive.css</name>
+<size>22102</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/css/bootstrap-responsive.min.css</name>
+<size>16840</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/css/bootstrap.css</name>
+<size>127343</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/css/bootstrap.min.css</name>
+<size>106006</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/static/bootstrap/img</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/img/glyphicons-halflings-white.png</name>
+<size>8777</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/img/glyphicons-halflings.png</name>
+<size>12799</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/static/bootstrap/js</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/js/bootstrap.js</name>
+<size>61884</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/static/bootstrap/js/bootstrap.min.js</name>
+<size>28631</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_list.xml</name>
+<size>81881</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_list_test.xml</name>
+<size>2033</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_log.xml</name>
+<size>64739</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/svn_log_test.xml</name>
+<size>2038</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/templates</name>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/fileTemplate.html</name>
+<size>2562</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/index.html</name>
+<size>4557</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/portfolioTemplate.html</name>
+<size>1196</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/templates/projectTemplate.html</name>
+<size>2862</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test_parseSVNclass.py</name>
+<size>3119</size>
+<commit
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>junit-3.8.1.jar</name>
+<size>121070</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+</commit>
+</entry>
+</list>
+</lists>

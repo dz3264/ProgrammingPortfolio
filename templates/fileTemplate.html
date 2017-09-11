@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{Assignment}} - {{FileName}}</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script>
+    $(document).ready(function(){
+        $("#showHide").click(function(){
+            $("#commentAppear").animate({
+                height: 'toggle'
+            });
+        });
+    });
+
+    $(document).ready(function(){
+        $("#showFiles").click(function(){
+            $("#animateFiles").animate({
+                height: 'toggle'
+            });
+        });
+    });
+  </script>
+<script>
+    .post-comments {
+  padding-bottom: 9px;
+  margin: 5px 0 5px;
+}
+
+.comments-nav {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 5px;
+}
+
+.post-comments .comment-meta {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 5px;
+}
+
+.post-comments .media {
+  border-left: 1px dotted #000;
+  border-bottom: 1px dotted #000;
+  margin-bottom: 5px;
+  padding-left: 10px;
+}
+
+.post-comments .media-heading {
+  font-size: 12px;
+  color: grey;
+}
+
+.post-comments .comment-meta a {
+  font-size: 12px;
+  color: grey;
+  font-weight: bolder;
+  margin-right: 5px;
+}
+</script>
+
+</head>
+
+<body>
+<nav class="navbar navbar-inverse">
+    <p class="navbar-text">{{assignment}}</p>
+  <ul class="nav navbar-nav">
+
+      <li><a href="/">My Protfolio</a></li>
+      <li><a href="/{{Assignment}}">Back To {{Assignment}}</a></li>
+  </ul>
+
+</nav>
+
+
+<div class="container-fluid">
+  <div class="row content">
+    <div class="col-sm-3 sidenav">
+
+        <h3><a href="/{{Assignment}}">{{Assignment}}</a></h3>
+        <h4>{{FileName}}</h4>
+        <ul class="nav nav-pills nav-stacked">
+          {% for ver in project["UpdateVersions"] %}
+            {% if(ver["Version"] == VersionNum)%}
+              {% for f in ver["Files"]%}
+                {% if f["name"].split("/")[-1] == FileName %}
+                <li>Author: {{f["author"]}}</li>
+                <li>Date: {{f["date"].split("T")[0]}}</li>
+                <li>Type: {{f["Type"]}}</li>
+                <li>Size: {{f["size"]}}</li>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+
+        <h4>Files: <button class="btn secondary" id = "showFiles">Show/Hide</button> </h4>
+
+        <ul class="nav nav-pills nav-stacked" id = "animateFiles">
+            {% for file in fileName %} 
+
+                <li><a href="/{{Assignment}}/Version/{{VersionNum}}/File/{{file}}">{{file}}</a></li>
+
+            {% endfor %}
+        </ul><br>
+
+
+    </div>
+
+    <div class="col-sm-9">
+      <h4><small>CODE</small></h4>
+
+        <h2>{{FileName}}</h2>
+
+        <iframe src={{link}} height="500px" width="100%"></iframe>
+
+                    <div class="col-sm-9">
+                        <h2>Add A Comment</h2>
+                        <div class="container">
+                        <div class="col-sm-8">
+                            <div class="status-upload">
+                                <form method="POST" action="/{{Assignment}}/Version/{{VersionNum}}/File/{{FileName}}">
+                                    <div class="form-group">
+                                    <label for="usr">Name:</label>
+                                    <input placeholder= "Temporary User Name" type="text" name = "userName" class="form-control" id="usr">
+
+                                    <label for="comment">Comment:</label>
+                                    <textarea placeholder= "Any New Comment?" class="form-control" name = "commentContext" rows="5" id="comment"></textarea>
+                                    </div>
+                                    <button type="submit" name="bsubmit" value="None." class="btn btn-primary">Submit</button>
+                                </form>
+                            </div>
+                            <!-- Status Upload  -->
+                        </div>
+                            <!-- Comment area  -->
+                </div>
+            </div>
+
+        <div class="col-sm-9">
+        <h2>Comments <button class="btn btn-secondary" id = "showHide">Show/Hide</button> </h2>
+
+        </div>
+
+<!-- -------------------------------Comment area-------------------------------  -->
+        <div class="container" id = "commentAppear">
+            <div class="col-sm-9">
+                <div class="post-comments">
+                    <!-- Format -->
+                <div class="comments-nav">
+                </div>
+
+    <div class="row">
+        {% for p in parentList %}
+      <div class="media"> <!-- first comment begin -->
+
+        <div class="media-heading">
+          <button class="btn btn-default btn-xs" type="button" data-toggle="collapse" data-target="#collapse{{p[0]}}" aria-expanded="false" aria-controls="collapseExample"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+            <strong>{{p[1]}}</strong> <span class="text-muted">{{p[3]}}</span>
+        </div>
+
+        <div class="panel-collapse collapse in" id="collapse{{p[0]}}">
+
+          <div class="media-left">
+            <div class="vote-wrap">
+              <div class="save-post">
+                <span class="glyphicon glyphicon-star" aria-label="Save"></span>
+              </div>
+            </div>
+            <!-- vote-wrap -->
+          </div>
+          <!-- media-left -->
+
+
+          <div class="media-body">
+            <p>{{p[2]}}</p>
+            <div class="comment-meta">
+              <span><a class="" role="button" data-toggle="collapse" href="#replyComment{{p[0]}}" aria-expanded="false" aria-controls="collapseExample">reply</a>
+                      </span>
+              <div class="collapse" id="replyComment{{p[0]}}">
+                <form method="POST" action="/{{Assignment}}/Version/{{VersionNum}}/File/{{FileName}}">
+                  <div class="form-group">
+
+                    <label for="usr">Name:</label>
+                    <input placeholder= "Temporary User Name" type="text" name = "rpName" class="form-control">
+                    <label for="comment">Your Comment</label>
+                    <textarea name="replyParent" class="form-control" rows="3"></textarea>
+                  </div>
+                  <button type="submit" name="bsubmit" value="{{p[0]}}"  class="btn btn-default">Send</button>
+                </form>
+              </div>
+            </div>
+            <!-- comment-meta -->
+
+              {% for child in childList %}
+                {% if child['Parent'] == p[0] %}
+              <!-- check children's parent is current comment -->
+                    {% for c in child['Children']%}
+            <div class="media">
+              <!-- answer to the first comment -->
+
+              <div class="media-heading">
+                <button class="btn btn-default btn-collapse btn-xs" type="button" data-toggle="collapse" data-target="#collapse{{c[0]}}" aria-expanded="false" aria-controls="collapseExample"><span class="glyphicon glyphicon-minus" aria-hidden="true"></span></button>
+                  <strong>{{c[1]}}</strong> {%if c[6] != None %} Reply To <strong>{{c[6]}}</strong> {% endif %} <span class="text-muted">{{c[3]}}</span>
+              </div>
+
+              <div class="panel-collapse collapse in" id="collapse{{c[0]}}">
+
+                <div class="media-left">
+                  <div class="vote-wrap">
+                    <div class="save-post">
+                      <span class="glyphicon glyphicon-star" aria-label="Save"></span>
+                    </div>
+                  </div>
+                  <!-- vote-wrap -->
+                </div>
+                <!-- media-left -->
+
+
+                <div class="media-body">
+                  <p> {{c[2]}}</p>
+                  <div class="comment-meta">
+                            <span>
+                              <a class="" role="button" data-toggle="collapse" href="#replyComment{{c[0]}}" aria-expanded="false" aria-controls="collapseExample">reply</a>
+                            </span>
+                    <div class="collapse" id="replyComment{{c[0]}}">
+                      <form method="POST" action="/{{Assignment}}/Version/{{VersionNum}}/File/{{FileName}}">
+                        <div class="form-group">
+                          <label for="usr">Name:</label>
+
+                          <input placeholder= "Temporary User Name" type="text" name = "rcName" class="form-control">
+                          <label for="comment">Your Comment</label>
+                          <textarea name="replyChild" class="form-control" rows="3"></textarea>
+                        </div>
+                        <button type="submit" name="bsubmit" value="{{p[0]}}.{{c[0]}}" class="btn btn-default">Send</button>
+                      </form>
+                    </div>
+                  </div>
+                  <!-- comment-meta -->
+                </div>
+              </div>
+              <!-- comments -->
+
+            </div>
+            <!-- answer to the first comment -->
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        <!-- comments -->
+
+      </div>
+      <!-- first comment -->
+
+        {% endfor %}
+    </div>
+
+  </div>
+  <!-- post-comments -->
+</div>
+        </div><!-- /container -->
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
+
+
+
+<!--Source code cite:
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_temp_blog&stacked=h
+http://bootsnipp.com/snippets/featured/comment-box-->

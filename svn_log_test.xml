@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+    <logentry
+        revision="6538">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+        <paths>
+            <path
+                action="A"
+                kind="dir">/hzhan107/Assignment2.1</path>
+            <path
+                kind="dir"
+                action="A">/hzhan107/Assignment2.1/WebScrap/Graph</path>
+            <path
+                action="A"
+                kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/DataAnalysis.py</path>
+            <path
+                action="A"
+                kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/DataGraphLib.py</path>
+            <path
+                action="A"
+                kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/GraphLibrary.py</path>
+        </paths>
+        <msg>Assignment 2.1</msg>
+    </logentry>
+    <logentry
+        revision="4436">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+        <paths>
+            <path
+                action="A"
+                kind="dir">/hzhan107/Assignment2.1</path>
+            <path
+                kind="dir"
+                action="A">/hzhan107/Assignment2.1/WebScrap/Graph</path>
+            <path
+                action="A"
+                kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/GraphLibrary.py</path>
+        </paths>
+        <msg>Assignment 2.1</msg>
+    </logentry>
+    
+    <logentry
+        revision="5893">
+        <author>hzhan107</author>
+        <date>2017-02-28T05:04:29.622516Z</date>
+        <paths>
+            <path
+                action="A"
+                kind="file">/hzhan107/Assignment2.0/.idea/Assignment 2.0.iml</path>
+            <path
+                kind="dir"
+                action="A">/hzhan107/Assignment2.0/.idea/inspectionProfiles</path>
+            <path
+                action="A"
+                kind="file">/hzhan107/Assignment2.0/WebScrap/QueriesFunc.py</path>
+        </paths>
+        <msg>assignment2.0</msg>
+    </logentry>
+</log>

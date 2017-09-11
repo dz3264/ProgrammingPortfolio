@@ -1,0 +1,2081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7449">
+<author>hzhan107</author>
+<date>2017-03-14T15:09:16.369843Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment3.0</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment3.0/.idea</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment3.0/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment3.0/__pycache__</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/buildWebsite.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/parseXML.py</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment3.0/static</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment3.0/static/bootstrap</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment3.0/static/bootstrap/css</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/static/bootstrap/css/bootstrap-responsive.css</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/static/bootstrap/css/bootstrap-responsive.min.css</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/static/bootstrap/css/bootstrap.css</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/static/bootstrap/css/bootstrap.min.css</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment3.0/static/bootstrap/img</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/static/bootstrap/img/glyphicons-halflings-white.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/static/bootstrap/img/glyphicons-halflings.png</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment3.0/static/bootstrap/js</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/static/bootstrap/js/bootstrap.js</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/static/bootstrap/js/bootstrap.min.js</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/svn_list_test.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/svn_log.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/svn_log_test.xml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment3.0/templates</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/templates/fileTemplate.html</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment3.0/templates/index.html</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/templates/portfolioTemplate.html</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/templates/projectTemplate.html</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment3.0/test_parseSVNclass.py</path>
+</paths>
+<msg>"Assignment 3"</msg>
+</logentry>
+<logentry
+   revision="6538">
+<author>hzhan107</author>
+<date>2017-03-07T11:16:50.197964Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/.idea</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/.idea/Assignment 2.0.iml</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/.idea/inspectionProfiles</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/Manual Test Plan - Web.pdf</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.1/WebScrap</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Graph</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/DataAnalysis.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/DataGraphLib.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/GraphLibrary.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Graph/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/WebScrap/Graph/__pycache__</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Graph/dataLogFile.log</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/WebScrap/Scrapping</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Scrapping/ActorScraping.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Scrapping/MovieScraping.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Scrapping/WebScraping.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Scrapping/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Test</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Test/actors.json</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Test/data.json</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Test/dataLogFile.log</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/graphLogFile.log</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/movies.json</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/Test/test_ActorClass_MovieClass.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/test_dataGraphClass.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/test_graphClass.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/test_webScrapClass.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/webActorJSON.json</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/Test/webMoviesJSON.json</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.1/WebScrap/__pycache__</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/WebScrap/api</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/.idea</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/.idea/api.iml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/api/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/__init__.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/WebScrap/api/api.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/api/dataLogFile.log</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/WebScrap/api/static</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.1/WebScrap/api/templates</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/api/test_api.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.1/WebScrap/dataLogFile.log</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.1/__init__.py</path>
+</paths>
+<msg>Assignment 2.1</msg>
+</logentry>
+<logentry
+   revision="5893">
+<author>hzhan107</author>
+<date>2017-02-28T05:04:29.622516Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.0/.idea</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/.idea/Assignment 2.0.iml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.0/.idea/inspectionProfiles</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.0/WebScrap</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/WebScrap/ActorScraping.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/MovieScraping.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/WebScrap/QueriesFunc.py</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment2.0/WebScrap/Test</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/WebScrap/Test/__init__.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/WebScrap/Test/actors.json</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/WebScrap/Test/movies.json</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/Test/test_queriesClass.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/Test/test_webScrapClass.py</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/WebScrap/Test/text_ActorClass_MovieClass.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/Test/webActorJSON.json</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/Test/webMoviesJSON.json</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/WebScraping.py</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment2.0/WebScrap/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment2.0/WebScrap/__pycache__</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment2.0/__init__.py</path>
+</paths>
+<msg>assignment2.0</msg>
+</logentry>
+<logentry
+   revision="5328">
+<author>hzhan107</author>
+<date>2017-02-21T06:30:54.102466Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/Manual Test Plan.pdf</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/King.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Knight.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Prince.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Princess.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Queen.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Rook.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Players.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$1.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$2.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$3.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/src/com/company/Main.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/King.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Knight.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Piece.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Prince.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Princess.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Players.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/TestJunit.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.2/src/com/company/View/Table.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5310">
+<author>hzhan107</author>
+<date>2017-02-21T03:20:14.847372Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/.idea</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/.idea/description.html</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/.idea/libraries</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/libraries/junit_3_8_1.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/project-template.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/Assignment1.0.iml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/Manual Test Plan.pdf</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/PiecesImages</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bBISHOP.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bKING.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bKNIGHT.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bPAWN.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bPrince.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/bPrincess.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bROOK.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/test.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wBISHOP.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wKING.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wKINGj.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wKNIGHT.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPAWN.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPrince.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPrincess.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wQueen.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wQueenj.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wROOK.png</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/King.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Knight.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece$pieces.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Prince.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Princess.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Queen.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Board.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Players.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Position.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Moves.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$1.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$2.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$3.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles$1$1.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles$1.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/guiBoard.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Main.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com/company/Model</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/King.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Prince.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Princess.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Board.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Players.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Position.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/TestJunit.java</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View/Moves.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View/Table.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/View/Tiles.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/View/guiBoard.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5309">
+<author>hzhan107</author>
+<date>2017-02-21T03:19:46.153590Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/hzhan107/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5308">
+<author>hzhan107</author>
+<date>2017-02-21T03:12:21.249664Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/.idea</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/PiecesImages</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wBISHOP.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wKING.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wKINGj.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wKNIGHT.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPAWN.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPrince.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wPrincess.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wQueen.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wQueenj.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wROOK.png</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5305">
+<author>hzhan107</author>
+<date>2017-02-21T02:41:29.336402Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/Assignment1.0.iml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Main.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/TestJunit.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5304">
+<author>hzhan107</author>
+<date>2017-02-21T02:40:41.393704Z</date>
+<paths>
+<path
+   action="R"
+   kind="dir">/hzhan107/Assignment1.2</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0/com</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/King.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece$pieces.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Piece.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Prince.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Princess.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Queen.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPieces/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Board.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Players.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Model/ChessPlay/Position.class</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Moves.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$1.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$2.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table$3.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Table.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles$1$1.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles$1.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/Tiles.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/View/guiBoard.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/King.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Prince.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Princess.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Board.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Players.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/Model/ChessPlay/Position.java</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View/Moves.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/View/Table.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View/Tiles.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/View/guiBoard.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5272">
+<author>hzhan107</author>
+<date>2017-02-20T20:01:46.153898Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/.idea</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/.idea/description.html</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/.idea/libraries</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/libraries/junit_3_8_1.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/project-template.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/PiecesImages</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bBISHOP.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bKING.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bKNIGHT.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bPAWN.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bPrince.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/bPrincess.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/bROOK.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/test.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wBISHOP.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wKING.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wKINGj.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wKNIGHT.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPAWN.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wPrince.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/PiecesImages/wPrincess.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wQueen.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wQueenj.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/PiecesImages/wROOK.png</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Moves.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Table$1.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Table$2.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Table.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Tiles$1$1.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Tiles$1.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/Tiles.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessGUI/guiBoard.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/King.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Piece$pieces.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Piece.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Prince.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Princess.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPieces/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPlay</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPlay/Board.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPlay/Players.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/ChessPlay/Position.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com/company</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessGUI/Moves.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessGUI/Table.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessGUI/Tiles.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessGUI/guiBoard.java</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessPieces/King.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Prince.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Princess.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.2/src/com/company/ChessPlay</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessPlay/Board.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/ChessPlay/Players.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.2/src/com/company/ChessPlay/Position.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/Main.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.2/src/com/company/TestJunit.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4560">
+<author>hzhan107</author>
+<date>2017-02-14T15:45:27.840415Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>Assignment 1.1 Doxygen</msg>
+</logentry>
+<logentry
+   revision="4505">
+<author>hzhan107</author>
+<date>2017-02-14T07:31:30.813546Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/.idea</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/.idea/description.html</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/.idea/libraries</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/.idea/libraries/junit_3_8_1.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/.idea/project-template.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/Assignment1.0.iml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/PiecesImages</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/bBISHOP.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/bKING.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/bKINGj.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/bKNIGHT.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/bPAWN.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/bQueenj.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/bROOK.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/test.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wBISHOP.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wKING.png</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/PiecesImages/wKINGj.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wKNIGHT.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wPAWN.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wQueenj.png</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/PiecesImages/wROOK.png</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/out</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/out/production</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/out/production/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI/Table.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI/Tiles.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessGUI/guiBoard.class</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/King.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Piece$pieces.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Piece.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Prince.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Princess.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Queen.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPieces/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay/Board.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay/Players.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/ChessPlay/Position.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/src/com</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/src/com/company</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessGUI/Table.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessGUI/Tiles.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessGUI/guiBoard.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/src/com/company/ChessPieces</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessPieces/King.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Prince.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Princess.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessPieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.1/src/com/company/ChessPlay</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessPlay/Board.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessPlay/Players.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/ChessPlay/Position.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/Main.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.1/src/com/company/TestJunit.java</path>
+</paths>
+<msg>Assignment1.1</msg>
+</logentry>
+<logentry
+   revision="3556">
+<author>hzhan107</author>
+<date>2017-02-07T07:47:29.377757Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/hzhan107/.classpath</path>
+<path
+   kind="file"
+   action="A">/hzhan107/.project</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/info</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/pack</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/refs/tags</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Piece$1.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Piece.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Main.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Piece.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.0/src/com/company/Players.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.0/src/com/company/Position.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/TestJunit.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/junit-3.8.1.jar</path>
+<path
+   kind="file"
+   action="A">/hzhan107/useOutput.txt</path>
+</paths>
+<msg>Assignment 1.0</msg>
+</logentry>
+<logentry
+   revision="3497">
+<author>hzhan107</author>
+<date>2017-02-07T00:34:39.690237Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.0/.idea/libraries</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/.idea/libraries/junit_3_8_1.xml</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.0/Assignment1.0.iml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0/out</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.0/out/production</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0/out/production/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0/out/production/Assignment1.0/com</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Board.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Main.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Piece$1.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Piece$pieces.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Piece.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Players.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/Position.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/out/production/Assignment1.0/com/company/TestJunit.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Board.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment1.0/src/com/company/Main.java</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Piece.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/src/com/company/TestJunit.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3311">
+<author>hzhan107</author>
+<date>2017-02-06T01:10:18.162219Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/.idea/description.html</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/.idea/project-template.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/Assignment1.0.iml</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.0/src/com</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment1.0/src/com/company</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Board.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Main.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment1.0/src/com/company/Piece.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/src/com/company/Players.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment1.0/src/com/company/Position.java</path>
+</paths>
+<msg>Assignment1.0 Draft</msg>
+</logentry>
+<logentry
+   revision="1572">
+<author>hzhan107</author>
+<date>2017-01-29T21:51:21.681154Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/COMMIT_EDITMSG</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/HEAD</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/config</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/description</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/hooks</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/hooks/README.sample</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/index</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/info</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/info/exclude</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/logs</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/HEAD</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/refs</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/logs/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/04</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/04/f84582866efc08628079c469ab938c57c12fd8</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/1c</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/1c/56d6647c8e4a63d536da6c1d0695e58af9af6d</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/68</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/68/1fe61fd37aeca3b71b466407d6581982dc2cdd</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/6c</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/6c/3c56a08ed709e3d18f98bb3cba33c7d91a35a1</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/73</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/73/f3c569025bd424c02b0cc31adda07361bd76e2</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/79</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/79/212715f1e30f136228ceec33495b8abe0e9d74</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/7e</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/7e/032758489f74aa049e7c30ca5a290811629bc3</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/b5</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/b5/8fa1f9e28ef7695c826922a7e03c3a9645b2b1</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/b5/f7eac4c74cb7a135d8f6dac0d5380b1d1dac6a</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/d7</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/d7/60cdabf866e1e4bb59f59ea0f4e03a035d8fdd</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/e1</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/e1/ff4e1a6f26de1f527631872c816c2906fba8a0</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ec</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ec/70179020fd199111f0fd909f95d97babd8c368</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ef</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/objects/ef/e0b78a69012710596d6e96d423e724af758b41</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/refs</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/refs/heads</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2/main.cpp</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.pbxproj</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/contents.xcworkspacedata</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/xcuserdata</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/xcuserdata/dianazhang.xcuserdatad</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/project.xcworkspace/xcuserdata/dianazhang.xcuserdatad/UserInterfaceState.xcuserstate</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcdebugger</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcschemes</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcschemes/MP2.xcscheme</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2/MP2.xcodeproj/xcuserdata/dianazhang.xcuserdatad/xcschemes/xcschememanagement.plist</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/MP2 2</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/cs418_mp2_hzhan107/README_hzhan107.rtf</path>
+</paths>
+<msg>400+ CODE</msg>
+</logentry>
+<logentry
+   revision="1558">
+<author>hzhan107</author>
+<date>2017-01-29T21:36:06.749526Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment0/.classpath</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="M"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="M">/hzhan107/Assignment0/src/lanSimulation/internals/Node.java</path>
+</paths>
+<msg>Assignment0</msg>
+</logentry>
+<logentry
+   revision="651">
+<author>hzhan107</author>
+<date>2017-01-25T21:05:11.574016Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/.classpath</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/.project</path>
+<path
+   kind="dir"
+   action="A">/hzhan107/Assignment0/.settings</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/COPYING</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/doc/README</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/src</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/hzhan107/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/hzhan107/Assignment0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/hzhan107/Assignment0/useOutput.txt</path>
+</paths>
+<msg>assignment0</msg>
+</logentry>
+<logentry
+   revision="74">
+<author>root</author>
+<date>2017-01-24T19:28:03.408810Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/hzhan107</path>
+</paths>
+<msg>created directory hzhan107</msg>
+</logentry>
+</log>

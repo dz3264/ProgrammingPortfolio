@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Code Protfolio</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script>
+    $(document).ready(function(){
+    $("#test").hover(function(){
+        $(this).css("background-color", "yellow");
+        }, function(){
+        $(this).css("background-color", "pink");
+    });
+});
+    </script>
+</head>
+<body>
+<div class="jumbotron text-center" >
+  <h1>My Code Protfolio</h1>
+  <p>Huaxin Zhang</p>
+</div>
+
+<div class="container" >
+  <div class="row">
+
+	  {% for item in projectsName %} 
+	  	<div class="col-sm-4" > 
+			<h3>{{item}}</h3> 
+
+            <p>Creation Date: {{ projectList[item]["UpdateVersions"][-1]["LogsInfo"]["date"].split("T")[0] }}</p> 
+            <p>Number of Versions: {{ projectList[item]["UpdateVersions"]|length}}</p>
+            <a href= "/{{item}}" class="btn btn-primary" role="button">Details > </a>
+
+		</div> 
+	  {% endfor %}
+
+  </div>
+</div>
+
+
+</body>
+</html>
+
+
+<!--Source code cite:
+https://www.w3schools.com/bootstrap/-->
+

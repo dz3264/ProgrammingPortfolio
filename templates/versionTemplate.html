@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Code Protfolio</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><style>
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 1500px}
+
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height: auto;}
+    }
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-inverse">
+    <p class="navbar-text">{{Assignment}}</p>
+  <ul class="nav navbar-nav">
+    <li><a href="/">Back</a></li>
+  </ul>
+
+</nav>
+
+<div class="jumbotron text-center">
+  <h1>{{Assignment}}</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+
+	  {% for item in projectVersions %} 
+	  	<div class="col-sm-4"> 
+			<h3>{{Assignment}}</h3> 
+            {% for ver in project["UpdateVersions"]%}
+                {% if ver["Version"] == item %}
+                    <p>Date: {{ ver["LogsInfo"]["date"].split("T")[0] }}</p> 
+                    <p>Version: {{ item }}</p> 
+                    <p>Summary: {{ ver["LogsInfo"]["msg"]}}</p> 
+                    <a href= "/{{Assignment}}/Version/{{item}}" class="btn btn-primary" role="button">Details > </a>
+                {% endif %}
+            {% endfor %}
+		</div> 
+	  {% endfor %}
+
+  </div>
+</div>
+</body>
+</html>
+
+
+<!--Source code cite:
+https://www.w3schools.com/bootstrap/-->

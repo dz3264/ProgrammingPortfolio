@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+    <list
+        path="https://subversion.ews.illinois.edu/svn/sp17-cs242/hzhan107">
+
+<entry
+    kind="dir">
+    <name>Assignment2.1</name>
+    <commit
+        revision="6538">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+    </commit>
+</entry>
+
+<entry
+    kind="dir">
+    <name>Assignment2.1/WebScrap/Graph</name>
+    <commit
+        revision="6538">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+    </commit>
+</entry>
+
+<entry
+    kind="file">
+    <name>Assignment2.1/WebScrap/Graph/DataAnalysis.py</name>
+    <size>3849</size>
+    <commit
+        revision="6538">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+    </commit>
+</entry>
+<entry
+    kind="file">
+    <name>Assignment2.1/WebScrap/Graph/DataGraphLib.py</name>
+    <size>6161</size>
+    <commit
+        revision="6538">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+    </commit>
+</entry>
+<entry
+    kind="file">
+    <name>Assignment2.1/WebScrap/Graph/GraphLibrary.py</name>
+    <size>5732</size>
+    <commit
+        revision="6538">
+        <author>hzhan107</author>
+        <date>2017-03-07T11:16:50.197964Z</date>
+    </commit>
+</entry>
+<entry
+    kind="file">
+    <name>Assignment2.0/.idea/Assignment 2.0.iml</name>
+    <size>574</size>
+    <commit
+        revision="5893">
+        <author>hzhan107</author>
+        <date>2017-02-28T05:04:29.622516Z</date>
+    </commit>
+</entry>
+<entry
+    kind="dir">
+    <name>Assignment2.0/.idea/inspectionProfiles</name>
+    <commit
+        revision="5893">
+        <author>hzhan107</author>
+        <date>2017-02-28T05:04:29.622516Z</date>
+    </commit>
+</entry>
+<entry
+    kind="file">
+    <name>Assignment2.0/WebScrap/QueriesFunc.py</name>
+    <size>5469</size>
+    <commit
+        revision="5893">
+        <author>hzhan107</author>
+        <date>2017-02-28T05:04:29.622516Z</date>
+    </commit>
+</entry>
+
+
+
+
+    </list>
+</lists>
